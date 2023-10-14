@@ -273,12 +273,12 @@ nav .toggle {
   text-align: center;
 }
 .button-border-blue {
-  color: royalblue;
-  border: 1px solid royalblue;
+  color: #25C998;
+  border: 1px solid #25C998;
   transition: 0.5s;
 }
 .button-border-blue:hover {
-  background-color: royalblue;
+  background-color: #25C998;
   color: #fff;
 }
 .testimonial .testimonial-container {
@@ -390,7 +390,7 @@ footer .bottom p {
     right: -100%;
     width: 55%;
     height: 100%;
-    background-color: royalblue;
+    background-color: #25C998;
     justify-content: space-evenly;
     flex-direction: column;
   }
